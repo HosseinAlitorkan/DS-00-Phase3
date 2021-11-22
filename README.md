@@ -74,13 +74,17 @@ a square b = a^2+b^2<br>
  ![tree](https://user-images.githubusercontent.com/70153144/142826292-37bd0066-1964-454f-a66b-fc8a03124bc3.png)
 
  چاپ مراحل محاسبه:
+ 
  مرحله 1:
+ 
 4*(2^3)<br>
  مرحله2:
+ 
  4*8<br>
  مرحله3:
+ 
  32<br>
- جواب نهایی:
+ جواب نهایی:<br>
  32<br>
  
 
